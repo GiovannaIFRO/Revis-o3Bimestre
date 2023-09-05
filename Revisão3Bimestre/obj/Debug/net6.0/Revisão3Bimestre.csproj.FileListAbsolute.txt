@@ -1,0 +1,15 @@
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\obj\Debug\net6.0\Revisão3Bimestre.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\obj\Debug\net6.0\Revisão3Bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\obj\Debug\net6.0\Revisão3Bimestre.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\obj\Debug\net6.0\Revisão3Bimestre.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\obj\Debug\net6.0\Revisão3Bimestre.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\bin\Debug\net6.0\Revisão3Bimestre.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\bin\Debug\net6.0\Revisão3Bimestre.deps.json
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\bin\Debug\net6.0\Revisão3Bimestre.runtimeconfig.json
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\bin\Debug\net6.0\Revisão3Bimestre.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\bin\Debug\net6.0\Revisão3Bimestre.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\obj\Debug\net6.0\Revisão3Bimestre.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\obj\Debug\net6.0\refint\Revisão3Bimestre.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\obj\Debug\net6.0\Revisão3Bimestre.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\obj\Debug\net6.0\Revisão3Bimestre.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Revisão3Bimestre\Revisão3Bimestre\obj\Debug\net6.0\ref\Revisão3Bimestre.dll
