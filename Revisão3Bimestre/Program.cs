@@ -83,9 +83,32 @@ public class Program
         //no exemplo, x.nome especifica que irá ordernar pelo atributo nome, pode ser qualquer atribuyo do objeto
         List<Paciente> pOrdenaadas = listaPacientes.OrderBy(p => p.nome).ToList();
 
-        foreach (Paciente p in pOrdenaadas)
+
+        //Recupera feterminado elemento que contem o valor passado na expressão.
+        //np exemplo, recupera o paciente que contem o cpf 000
+        Paciente pCpf0 = listaPacientes.SingleOrDefault(x => x.cpf == "000");
+        if(pCpf0 != null)
+        {
+            Console.WriteLine(pCpf0.nome);
+        }else
+        {
+            Console.WriteLine("Paciente não encontrado!");
+        }
+
+        //o metodo Where é utilizado para selecionar todos que atende alguma expressão
+        //no exemprlo abaixo, seleciona e armazena na lista busca todos os pacientes que possuem o valor Id maior que 2
+        string nomeBusca = Console.ReadLine();
+        List<Paciente> busca = listaPacientes.Where(x => x.nome.ToUpper() == nomeBusca.ToUpper()).ToList();
+
+
+        foreach (Paciente p in busca)
         {
             Console.WriteLine($"{p.nome}, {p.cpf}, {p.Id}, {p.email}, {p.DataNasc}");
+
+            /*if(p.cpf == "000")
+            {
+                Paciente pcpf00 = p;
+            }*/
         }
 
         Console.ReadKey();
